@@ -1,0 +1,6 @@
+LINK TO GIT REFERENCE REPO (the one from the canvas page of the project)
+https://github.com/aleksispi/ml-cloud-opt-thick
+
+LINK TO DATASET FOR CLOUD COVERAGE DATA the, KappaSet Sentinel-2 KappaZeta Cloud/Shadow SUBSET
+https://www.kaggle.com/datasets/nickelberry/kappaset-sentinel2-kappazeta-cloudshadow-subset/data
+
