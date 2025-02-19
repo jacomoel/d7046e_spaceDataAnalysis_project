@@ -169,3 +169,11 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# above is the auto python template ignore from gitHub
+
+# ignore the data folder
+data/
+
+# ignore the pdf folder
+pdf/
