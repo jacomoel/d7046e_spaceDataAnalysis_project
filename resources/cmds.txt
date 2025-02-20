@@ -1,0 +1,13 @@
+# MAKE UR VENV
+python -m venv venv
+
+# ACTIVATE ON WINDOWS
+venv\Scripts\activate.bat
+# In PowerShell
+venv\Scripts\Activate.ps1
+
+# MAKE UR VENV iOS or Linux
+$ source myvenv/bin/activate
+
+# when inside ur venv run cmd below to install reqs
+pip install -r requirements.txt
